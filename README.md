@@ -2,15 +2,14 @@
 
 ## Description
 
-A **content management systems (CMS)** interface that allows for viewing and interaction with information stored in databases. This app builds a command-line application from scratch to manage a company's employee database, using Node.js, Inquirer, and MySQL.
+An **object relational mapping (ORM)** backend for e-commerce site.  This includes Express.js API to use Sequelize to interact with MySQL database.  
 
 ### Technologies Used
 
-Inquirer
+Express.js
 JavaScript
-MySQL2
-Node JS
-Ascii-Art
+Sequelize
+
 
 ### Screenshot
 
